@@ -1,0 +1,81 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+.section1{
+    background-color: #000000; padding: 20px;
+    position: fixed;
+    width: 100%;  
+
+    top: 0;
+    color: #ffffff;
+    font-family:'PT serif';
+
+}
+.link{
+    margin-right: 60px;
+}
+a{
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'Fraunces', serif;
+    font-size: large;
+    margin-right: 20px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background: url(https://static.vecteezy.com/system/resources/previews/004/365/884/original/empty-white-wooden-wall-on-wooden-floor-interior-design-3d-rendering-free-photo.jpg)  no-repeat;
+    background-size: 100% 750px;
+}
+
+
+.contain{
+    
+    width: 400px;
+    height: 500px;
+    background-color: rgb(254, 253, 253);
+    margin-left: 40%;
+    margin-top: 5%;
+    text-align: center;
+    color: rgb(204, 2, 2);
+}
+
+
+
+.write{
+    border: none;
+    background-color: rgb(249, 246, 246);
+    border-bottom: 2px solid rgb(13, 13, 13);
+    width: 300px;
+    font-size: 20px;
+    margin-top: 40px;
+    outline: none;
+    color: rgb(9, 9, 9);
+}
+
+button{
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    background-color: rgb(40, 142, 220);
+    border: none;
+    color:  rgb(7, 8, 10);
+    border-radius: 25px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+button:hover{
+    border: 3px solid rgb(142, 131, 113);
+    color:black;
+    font-size: 22px;
+    background-color: rgb(142, 131, 113);
+}
+.contain h1{
+    font-size: 40px;
+    margin-top: 40px;
+
+}

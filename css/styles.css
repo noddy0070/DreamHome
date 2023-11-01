@@ -1,0 +1,229 @@
+
+  
+body{
+    margin: 0;
+      padding: 0;
+}
+.section1{
+    background-color: #F9A03F; padding: 20px;
+    position: fixed;
+    width: 100%;  
+
+    top: 0;
+    color: #000;
+    font-family:'PT serif';
+
+}
+.link{
+    margin-right: 60px;
+}
+a{
+    color: #000;
+    text-decoration: none;
+    font-family: 'Fraunces', serif;
+    font-size: large;
+    margin-right: 20px;
+}
+.section2{
+    padding-top: 50px;
+    top: 500px;
+}
+.heading{
+    color: rgb(0, 0, 0);
+    font-size: 72px;
+    font-weight:600;
+    line-height: 60px;
+    font-family: 'Slabo';
+}
+.para{
+    margin-top: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-weight:300;
+    line-height: 30px;
+    font-family: 'poppins';
+}
+
+.BUTTON_KJG {
+    margin-left: 0px;
+    background: #4F5D75;
+    background-image: -webkit-linear-gradient(top, #4F5D75, #4F5D75);
+    background-image: -moz-linear-gradient(top, #4F5D75, #4F5D75);
+    background-image: -ms-linear-gradient(top, #4F5D75, #4F5D75);
+    background-image: -o-linear-gradient(top, #4F5D75, #4F5D75);
+    background-image: -webkit-gradient(to bottom, #4F5D75, #4F5D75);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 100;
+    padding: 16px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_KJG:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+ }
+
+ .section3{
+    height: 600px;
+ }
+ .image-section3{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+ }
+
+ .section4{
+
+ }
+ .heading2{
+    font-family: 'Tinos';
+    font-size: 38px;
+    font-weight:400;
+    line-height: 30px;
+    
+ }
+
+ .para2{
+    font-family: 'Nirmat';
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 30px;
+ }
+.section5{
+    background-color: #333333;
+    height: 570px;
+}
+ .section-5img{
+    width: 33.33%; /* Set the width of each column to one-third of the container */
+    float: left; /* Float the columns next to each other */
+    box-sizing: border-box; /* Include padding and border in the column's total width */
+    padding: 10px; /* Optional: Add some padding for spacing */
+  }
+
+.heading3{
+    font-size: 52px;
+    font-weight: 400;
+    font-family: 'Merriweather';
+
+    margin-bottom: 20px;
+}
+
+.para3{
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: 'Lato';
+}
+.section5 a{
+    margin-left: 0;
+}
+.section5 img{
+
+    width: 95%;
+    height:220px;
+    border-radius: 5%;
+    object-fit: cover;
+}
+.section5 h3{
+    font-size: 30px;
+    font-weight: normal;
+    font-family: 'PT Serif';
+}
+
+.section6{
+
+    padding: 10px;
+    text-align: center;
+    height: 300px;
+
+
+}
+.col1{
+    position: relative;
+  
+    top: 100px;
+    left: -500px;
+}
+.col2{
+    position: relative;
+    top:-200px;
+    left: 500px;
+}
+.testimonial-content p{
+    font-size: 32px;
+    font-family: 'Tinos';
+    text-align: center;
+}
+.testimonial-content cite{
+    text-align: center;
+}
+
+
+
+
+
+.section7{
+    height: 700px;
+}
+.section7-1{
+    width: 33.33%; /* Set the width of each column to one-third of the container */
+    float: left; /* Float the columns next to each other */
+    box-sizing: border-box; /* Include padding and border in the column's total width */
+    padding: 10px; /* Optional: Add some padding for spacing */
+  }
+
+.section7-1 img{
+    width: 95%;
+    height:250px;
+    border-radius: 5%;
+    object-fit: cover;
+    margin-bottom: 30px;
+}
+
+.section7-2{
+    width: 50%; /* Set the width of each column to one-third of the container */
+    float: left; /* Float the columns next to each other */
+    box-sizing: border-box; /* Include padding and border in the column's total width */
+    padding: 10px; /* Optional: Add some padding for spacing */
+  }
+
+.section7-2 img{
+    
+    width: 95%;
+    height:350px;
+    border-radius: 5%;
+    object-fit: cover;
+}
+
+
+
+
+
+
+.section9{
+    background-color: #E7ECEF;
+    padding: 50px;
+    top: 0;
+    color: #000;
+    font-family:'PT serif';
+
+}
+.link{
+    margin-right: 60px;
+}
